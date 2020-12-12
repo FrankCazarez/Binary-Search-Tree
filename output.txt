@@ -1,0 +1,16 @@
+true
+true
+true
+true
+Owen Ana *Leo Pete
+true
+true
+true
+false
+Owen *Leo Ana Nick *Maya Pete
+Error in Line: Insert
+Error in Line: Insert
+Error in Line: Contains
+true
+true
+Error in Line: hih
